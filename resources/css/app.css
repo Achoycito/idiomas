@@ -1,3 +1,18 @@
+/* @import "tailwindcss"; */
+/* @source "../views"; */
+
+@import '@fortawesome/fontawesome-free/css/fontawesome.css';
+@import '@fortawesome/fontawesome-free/css/regular.css';
+@import '@fortawesome/fontawesome-free/css/solid.css';
+@import '@fortawesome/fontawesome-free/css/brands.css';
+
+@import url('https://fonts.cdnfonts.com/css/raleway-5');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* * {
+    font-family: 'Raleway', sans-serif;
+} */
